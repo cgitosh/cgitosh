@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @cgitosh
-- 👀 I’m interested in Software Dev using Django
-- 🌱 I’m currently learning Django and a lot more
-- 💞️ I’m looking to collaborate on Django and mobile Dev
-- 📫 How to reach me @cgitosh on twitter
+- 👋 Hi, I’m Clement Gitonga
+- 👀 I’m interested in Software Dev using Django & React JS
+- 🌱 I’m currently actively improving my Django + React Js skills by creating usable projects and modules
+- 💞️ I’m open to job offers on either short term or long term basis
+- 📫 How to reach me: cgitosh@live.com
 
 <!---
 cgitosh/cgitosh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
