@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Clement Gitonga
-- 👀 I’m interested in Software Dev using Django & React JS
-- 🌱 I’m currently actively improving my Django + React Js skills by creating usable projects and modules
+- 👀 I am a Data Analyst with a strong background in Software Development
+- 🌱 I’m currently actively working as a Data Analyst and also developing software in Django & React
 - 💞️ I’m open to job offers on either short term or long term basis
 - 📫 How to reach me: cgitosh@gmail.com
 
